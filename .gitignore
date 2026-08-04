@@ -3,8 +3,10 @@ node_modules
 dist
 __pycache__/
 *.pyc
+temp_auto_push.bat
 # Editor/tool backup files
 *.backup
 *.bak
 *.orig
-contracts/incentive_campaigns/test_snapshots
+contracts/incentive_campaigns/test_snapshots.gitignore
+branch_structure.json
